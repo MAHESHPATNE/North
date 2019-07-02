@@ -1,0 +1,22 @@
+Functonal Requirements:
+
+	OS: Ubuntu 16 or above/ Windows server
+	Ram: 16 GB ddr4 Dual channel 2666mHz
+	HDD: 128 gb
+	Processor: Intel Core Xeon / AMD ThreadRipper
+	Server: Node Js
+	Database: Oracle/My SQL
+	
+
+Non-Functional Requirements:
+
+	1)Relybility: The application should be reliable and maintain correct data for correct employee
+	  
+        2)Feassibility: The application should be accessibe form various platforms and devices
+	
+        3)Scalability: The application should be able to increase the load handling capacity as number of user increases
+	 
+        4)Maintainabilty: The application should be easy to maintain.
+	
+	
+	

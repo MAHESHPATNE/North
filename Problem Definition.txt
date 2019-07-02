@@ -1,0 +1,17 @@
+
+
+Problem definition:-
+
+The solution to Northwind intranet Information Management System is to build and maintntain their Information about 
+Feedback Management System and Leave Management System.
+
+The solution to this problem can be implemented by building
+a Dynamic web application which can be hosted of Amazon Web Service(AWS) or Google Cloud Service.
+
+The application need to be accessed by the comapany employees and administration.
+
+The system can be made in such a way that it is 
+hosted on static IP so only company can access it and a login page should be made so that if any outsider has the ip, 
+he should not be able to access the application.
+
+
